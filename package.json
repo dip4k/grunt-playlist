@@ -16,9 +16,12 @@
     "url": "https://github.com/dip4k/grunt-playlist/issues"
   },
   "homepage": "https://github.com/dip4k/grunt-playlist#readme",
-
   "devDependencies": {
+    "bootstrap-sass": "^3.3.7",
     "grunt": "^1.0.1",
-    "grunt-contrib-concat": "^1.0.1"
+    "grunt-contrib-concat": "^1.0.1",
+    "grunt-contrib-uglify": "^3.1.0",
+    "grunt-sass": "^2.0.0",
+    "node-sass": "^4.5.3"
   }
 }
